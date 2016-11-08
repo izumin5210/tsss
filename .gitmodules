@@ -1,0 +1,6 @@
+[submodule "lib/nod"]
+	path = lib/nod
+	url = https://github.com/fr00b0/nod.git
+[submodule "lib/singleton_t"]
+	path = lib/singleton_t
+	url = https://github.com/izumin5210/singleton_t.git
